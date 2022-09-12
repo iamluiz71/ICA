@@ -1,0 +1,1 @@
+Códigos e arquivos para utilização na cadeira de Inteligência Computacional Aplicada, bem como os eventuais artigos que se fundamentam dela.
